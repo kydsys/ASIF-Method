@@ -152,4 +152,6 @@ README
   # 3. Evaluate automatic results
   python metrics.py
 
+Datasets: see [code/DATASETS.md](code/DATASETS.md).
+
 
